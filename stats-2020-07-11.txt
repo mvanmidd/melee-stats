@@ -1,0 +1,373 @@
+Processed game 0: Shep (MARTH) vs. markvan (MARTH)
+Processed game 1: Shep (MARTH) vs. markvan (MARTH)
+Processed game 2: Shep (MARTH) vs. markvan (MARTH)
+Processed game 3: markvan (MARTH) vs. Shep (MARIO)
+Processed game 4: Shep (MARTH) vs. markvan (MARTH)
+Processed game 5: Shep (MARIO) vs. markvan (MARTH)
+Processed game 6: markvan (MARTH) vs. Shep (MARIO)
+Processed game 7: None (MARTH) vs. None (FALCO)
+Processed game 8: Shep (FALCO) vs. markvan (MARTH)
+Processed game 9: markvan (MARTH) vs. Shep (MARIO)
+Processed game 10:  (MARTH)
+Processed game 11: Shep (MARTH) vs. markvan (MARTH)
+Processed game 12: Shep (FALCO) vs. markvan (YOUNG_LINK)
+Processed game 13: Shep (FALCO) vs. markvan (MARTH)
+Processed game 14: Shep (MARTH) vs. markvan (MARTH)
+Processed game 15: markvan (MARTH) vs. Shep (MARIO)
+Processed game 16: markvan (MARTH) vs. Shep (MARIO)
+Processed game 17: Shep (FALCO) vs. markvan (MARTH)
+Processed game 18: Shep (MARIO) vs. markvan (MARTH)
+Processed game 19: Shep (FALCO) vs. markvan (YOUNG_LINK)
+Processed game 20: Shep (MARTH) vs. markvan (MARTH)
+Processed game 21: Shep (MARIO) vs. markvan (MARTH)
+Processed game 22:  (MARTH)
+Processed game 23: markvan (MARTH) vs. Shep (MARIO)
+Processed game 24: Shep (MARIO) vs. markvan (MARTH)
+Processed game 25: markvan (MARTH) vs. Shep (MARIO)
+Processed game 26: markvan (MARTH) vs. Shep (MARIO)
+Processed game 27: markvan (MARTH) vs. Shep (MARIO)
+Processed game 28: markvan (MARTH) vs. Shep (MARIO)
+Processed game 29: Shep (MARIO) vs. markvan (MARTH)
+Processed game 30: markvan (MARTH) vs. Shep (MARIO)
+Processed game 31: Shep (MARTH) vs. markvan (MARTH)
+Processed game 32: Shep (MARIO) vs. markvan (MARTH)
+Processed game 33: markvan (MARTH) vs. Shep (MARIO)
+Processed game 34: Shep (MARIO) vs. markvan (MARTH)
+Processed game 35: Shep (MARIO) vs. markvan (MARTH)
+Processed game 36: Shep (MARTH) vs. markvan (MARTH)
+Processed game 37: Shep (MARIO) vs. markvan (MARTH)
+Processed game 38: Shep (FALCO) vs. markvan (SHEIK)
+Processed game 39: markvan (MARTH) vs. Shep (MARIO)
+markvan (MARTH)
+  buttons
+    311543  (no input)
+     31294  L
+     23698  A
+     11587  X
+      9951  B
+      3692  L,A
+       561  L,X
+       288  L,B
+       255  Z
+        69  START
+  full_state
+     76430  WAIT
+     19700  DASH
+     15212  DAMAGE_FLY_N
+     13928  JUMP_AERIAL_F
+     12948  ATTACK_S_3_S
+     12626  FALL
+     10983  JUMP_F
+     10284  ATTACK_S_4_S
+     10202  LANDING_FALL_SPECIAL
+      8359  FURA_SLEEP_START
+  state_group
+    287126  OTHER
+     77256  WAIT
+     19700  DASH
+      8917  WALK
+  hitstun_buttons
+    188522  (no input)
+    160573  (not in hitstun)
+     17518  L
+     14517  A
+      5615  X
+      4265  B
+      1414  L,A
+       226  L,X
+       198  L,B
+        69  START
+Shep (MARIO)
+  buttons
+    235924  (no input)
+     23816  R
+     14897  X
+      7405  L
+      5579  B
+      3797  R,X
+      3283  A
+      2065  R,A
+      1405  Z,X
+       284  Z
+  full_state
+     51128  WAIT
+     24329  JUMP_F
+     15457  JUMP_AERIAL_F
+     11807  DASH
+      8552  ATTACK_AIR_LW
+      8325  WAIT_4
+      7691  FALL
+      7606  JUMP_AERIAL_B
+      7156  DAMAGE_FLY_N
+      6776  KNEE_BEND
+  state_group
+    233333  OTHER
+     51462  WAIT
+     11807  DASH
+      2785  WALK
+  hitstun_buttons
+    157341  (not in hitstun)
+    112273  (no input)
+     13371  R
+      4314  L
+      4012  X
+      2637  B
+      2092  A
+      1539  R,X
+       916  R,A
+       223  Z,X
+Shep (MARTH)
+  buttons
+     53810  (no input)
+      4356  R
+      2750  X
+      1663  A
+      1545  B
+      1301  L
+       556  R,X
+       499  Z,X
+       287  R,A
+       101  Z
+  full_state
+      7464  WAIT
+      6933  ATTACK_S_4_S
+      3113  JUMP_AERIAL_F
+      3090  JUMP_F
+      2846  DASH
+      2173  DAMAGE_FLY_N
+      1739  FALL
+      1612  LANDING_FALL_SPECIAL
+      1478  WALK_SLOW
+      1475  ATTACK_AIR_N
+  hitstun_buttons
+     32624  (not in hitstun)
+     27685  (no input)
+      2559  R
+      1018  A
+       971  L
+       874  B
+       782  X
+       298  R,X
+        68  R,A
+        59  DPAD_UP
+  state_group
+     53844  OTHER
+      8153  WAIT
+      2846  DASH
+      2234  WALK
+None (MARTH)
+  buttons
+       863  (no input)
+       110  A
+        33  X
+        33  B
+        32  L
+        19  R
+        15  R,L,A,START
+         7  R,L
+         6  L,X
+         6  R,L,A,X,START
+  full_state
+        91  DAMAGE_AIR_3
+        74  ATTACK_AIR_F
+        67  CAPTURE_DAMAGE_LW
+        62  FALL
+        60  ATTACK_AIR_HI
+        60  DEAD_DOWN
+        54  JUMP_AERIAL_F
+        39  CLIFF_JUMP_QUICK_2
+        39  SLIP_WAIT
+        38  LANDING
+  hitstun_buttons
+       575  (no input)
+       387  (not in hitstun)
+        56  A
+        21  L
+        19  R
+        18  X
+        15  B
+        15  R,L,A,START
+         7  R,L
+         6  R,L,A,X,START
+  state_group
+      1091  OTHER
+        29  WAIT
+        19  DASH
+         1  WALK
+Shep (FALCO)
+  buttons
+     42319  (no input)
+      3288  X
+      3072  R
+      1658  L
+      1572  B
+      1053  A
+       574  R,X
+       158  R,A
+       157  Z,X
+        70  Y
+  full_state
+      6537  WAIT
+      4969  JUMP_F
+      2394  JUMP_AERIAL_F
+      2264  DASH
+      2163  ATTACK_AIR_LW
+      2087  ATTACK_S_4_S
+      2040  KNEE_BEND
+      1837  LANDING
+      1487  WAIT_ITEM
+      1140  DAMAGE_FLY_N
+  hitstun_buttons
+     24304  (no input)
+     23892  (not in hitstun)
+      1686  R
+      1191  L
+       952  X
+       920  B
+       706  A
+       238  R,X
+        56  DPAD_UP
+        43  R,A
+  state_group
+     44390  OTHER
+      6839  WAIT
+      2264  DASH
+       648  WALK
+markvan (YOUNG_LINK)
+  buttons
+     14384  (no input)
+      1813  L
+       978  A
+       622  B
+       566  X
+       179  L,A
+       113  Z
+        45  L,X
+         4  L,A,X
+  full_state
+      4689  WAIT
+       701  DAMAGE_ELEC
+       665  JUMP_F
+       604  DAMAGE_FLY_N
+       562  DAMAGE_FLY_TOP
+       472  FALL
+       468  JUMP_AERIAL_F
+       443  DAMAGE_FLY_HI
+       424  ATTACK_S_3_S
+       402  FURA_SLEEP_START
+  hitstun_buttons
+     11465  (no input)
+      4386  (not in hitstun)
+      1412  L
+       616  A
+       328  B
+       224  X
+       163  L,A
+        82  Z
+        26  L,X
+         2  L,A,X
+  state_group
+     13611  OTHER
+      4755  WAIT
+       206  WALK
+       132  DASH
+markvan (SHEIK)
+  buttons
+      6065  (no input)
+      1014  A
+       963  L
+       322  B
+       289  X
+       109  L,A
+        66  L,X
+        56  L,B
+        11  DPAD_UP
+         5  Z
+  full_state
+       525  DAMAGE_FLY_N
+       427  JUMP_AERIAL_F
+       399  DAMAGE_FLY_TOP
+       389  ATTACK_S_3_S
+       338  JUMP_F
+       282  ATTACK_DASH
+       253  WAIT
+       227  DAMAGE_FLY_HI
+       210  FURA_SLEEP_START
+       191  CATCH
+  hitstun_buttons
+      3666  (no input)
+      3587  (not in hitstun)
+       617  A
+       530  L
+       199  B
+       143  X
+        53  L,B
+        50  L,A
+        46  L,X
+        11  DPAD_UP
+  state_group
+      8442  OTHER
+       260  WAIT
+       121  DASH
+        79  WALK
+None (FALCO)
+  buttons
+      1140  (no input)
+  full_state
+        93  APPEAL_R
+        81  WAIT
+        79  CATCH_ATTACK
+        66  ATTACK_12
+        64  THROW_F
+        58  ATTACK_LW_3
+        48  WALK_SLOW
+        45  ESCAPE_AIR
+        40  JUMP_F
+        38  DAMAGE_FLY_N
+  hitstun_buttons
+       579  (no input)
+       561  (not in hitstun)
+  state_group
+       970  OTHER
+        86  WALK
+        81  WAIT
+         3  DASH
+ (MARTH)
+  buttons
+     11169  (no input)
+      1401  L
+       833  A
+       643  B
+       584  X
+       143  L,A
+        27  L,X
+        21  Z
+        15  L,B
+         4  A,B
+  full_state
+      1069  DAMAGE_FLY_N
+       804  FALL
+       767  JUMP_AERIAL_F
+       719  DASH
+       704  WAIT
+       675  DAMAGE_FLY_LW
+       605  ATTACK_S_4_S
+       569  FURA_SLEEP_START
+       440  ATTACK_S_3_S
+       360  REBIRTH
+  hitstun_buttons
+      7325  (no input)
+      5297  (not in hitstun)
+       869  L
+       582  A
+       347  B
+       341  X
+        52  L,A
+        14  L,B
+         9  L,X
+         3  Z
+  state_group
+     12985  OTHER
+       756  WAIT
+       719  DASH
+       380  WALK
